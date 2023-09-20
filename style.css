@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&display=swap');
+
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+    background: linear-gradient(to right,#2980b9, #8e44ad);
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+.form{
+    margin: 100px auto;
+    width: 400PX;
+    border: none;
+    background-color: rgb(252, 251, 251);
+    padding: 30px;
+    border-radius: 10px;
+
+}
+
+.flex{
+
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.reg{
+    background: linear-gradient(120deg,#2980b9, #8e44ad);
+    width: 25px;
+    height: 5px;
+    margin-bottom: 17px;
+    
+   
+}
+
+
+
+    
+ button{
+    color: rgb(255, 255, 255);
+    background: linear-gradient(120deg,#2980b9, #8e44ad);
+    border: none;
+    padding: 10px;
+    font-size: 15px;
+  
+    border-radius: 6px;
+    width: 100%;
+
+
+}
+
+.name {
+    
+    border: none;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 10px;
+   
+    
+  
+
+}
+.name input{
+    margin-top: 5px;
+    outline: none;
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid rgb(185, 185, 185);
+  
+}
+.user{
+   
+
+   margin-bottom: 10px;
+    border: none;
+    background-color: rgb(255, 255, 255);
+}
+.user input{
+    margin-top: 5px;
+    outline: none;
+    padding: 10px;
+    border: 2px solid rgb(185, 185, 185);
+    border-radius: 5px;
+}
+.mail {
+   
+
+ margin-bottom: 10px;
+    border: none;
+    background-color: rgb(255, 255, 255);
+
+}
+.mail input{
+    margin-top: 5px;
+    outline: none;
+    padding: 10px;
+    border: 2px solid rgb(185, 185, 185);
+    border-radius: 5px;
+}
+.pass {
+
+
+    margin-bottom: 10px;
+    border: none;
+    background-color: rgb(255, 255, 255);
+}
+.pass input{
+    margin-top: 5px;
+    outline: none;
+    padding: 10px;
+    border: 2px solid rgb(185, 185, 185);
+    border-radius: 5px;
+}
+
+.con {
+  
+
+    margin-bottom: 10px;
+    border: none;
+    background-color: rgb(255, 255, 255);
+
+}
+.con input{
+   margin-top: 5px;
+    outline: none;
+    padding: 10px;
+    border: 2px solid rgb(185, 185, 185);
+    border-radius: 5px;
+}
+.num {
+   
+
+    margin-bottom: 10px;
+    border: none;
+    background-color: rgb(255, 255, 255);
+
+}
+.num input{
+   margin-top: 5px;
+    outline: none;
+    padding: 10px;
+    border: 2px solid rgb(185, 185, 185);
+    border-radius: 5px;
+}
+.gen {
+   
+ margin-bottom: 10px;
+    border: none;
+    background-color: rgb(255, 255, 255);
+
+ 
+
+}
+.gen input{
+    margin-top: 5px;
+    outline: none;
+    padding: 10px;
+    border: 2px solid rgb(185, 185, 185);
+  
+    
+}
+
+.gen label{
+    margin-right: 50px;
+}
+.form h2{
+    margin: 0;
+}
